@@ -1,1 +1,11 @@
-
+Id,name,parentId,positionName
+1,Elizabeth Aitken,,"Director, Extended Education"
+2,Philippa Swindell,1,"Associate Director, Commercial Operations and Planning"
+9,Chris Llewellyn,2,Head of Operations
+10,Lori Halford,9,Senior Planning and Operations Manager
+11,Harriet Hawtin,9,Senior Change Lead
+12,Ellen Shepherd,10,"Operations Manager, Finance"
+13,Whitney Williams,12,Operations Assistant
+14,Asma Begum-Ullah,10,"Operations Manager, Contracts"
+15,Tom Squire,14,Operations Assistant
+16,Jin Li,10,"Operations Manager, Systems"
