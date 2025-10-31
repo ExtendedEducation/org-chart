@@ -1,5 +1,5 @@
-id,parentId,name,lastName,position
-1,,Elizabeth,Aitken,Director of Extended Education
-2,1,Philippa,Swindell,Associate Director Commercial Operations & Planning
-3,2,Louise,Bennett,Head of Digital Learning Operations
-4,2,Nina,Nel,Senior Programme Manager
+id,parentId,name,positionName
+1,,Elizabeth Aitken,Director of Extended Education
+2,1,Philippa Swindell,Associate Director Commercial Operations & Planning
+3,2,Louise Bennett,Head of Digital Learning Operations
+4,2,Nina Nel,Senior Programme Manager
