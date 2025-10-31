@@ -31,7 +31,7 @@ export class OrgChart {
             id: `ID${Math.floor(Math.random() * 1000000)}`, // Id for event handlings
             firstDraw: true,    // Whether chart is drawn for the first time
             ctx: document.createElement('canvas').getContext('2d'),
-            initialExpandLevel: 1,
+            initialExpandLevel: 2,
             nodeDefaultBackground: 'none',
             lastTransform: { x: 0, y: 0, k: 1 },  // Panning and zooming values
             allowedNodesCount: {},
