@@ -7,7 +7,7 @@
  var chart;
  d3
   .csv(
-   "https://extendededucation.github.io/org-chart/misc/org.csv"
+   "https://extendededucation.github.io/org-chart/misc/data.csv"
   )
   .then((data) => {
    chart = new d3.OrgChart().container(".chart-container").data(data).render();
