@@ -1,8 +1,8 @@
-id,parentId,name,positionName, Department
-1,,Elizabeth Aitken,Director of Extended Education, SLT
-2,1,Philippa Swindell,"Associate Director, Commercial Operations & Planning",SLT
-3,2,Louise Bennett,Head of Digital Learning Operations,Transformation
-4,2,Nina Nel,Senior Programme Manager, Transformation
-5,1,Oliver Trumble,"Associate Director, Distance Education",SLT
-6,1,Lisa Havdhal,"Associate Director, Marketing & Recruitment",SLT
-7,1,Tom Purser,"Head of Programme Delivery, Summer School","Summer School"
+Id,name,parentId,positionName
+1,Elizabeth Aitken,,"Director, Extended Education"
+2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning"
+3,Louise Bennett,2,Head of Digital Learning Operations
+4,Nina Nel,2,Senior Programme Manager
+5,Oliver Trumble,1,"Associate Director, Distance Education"
+6,Becky Stephens,2,Project Manager
+7,Hayley Pantalleresco,6,Project Officer & EA to Director
