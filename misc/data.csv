@@ -1,8 +1,8 @@
-Id,name,parentId,positionName
-1,Elizabeth Aitken,,"Director, Extended Education"
-2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning"
-3,Louise Bennett,2,Head of Digital Learning Operations
-4,Nina Nel,2,Senior Programme Manager
-5,Oliver Trumble,1,"Associate Director, Distance Education"
-6,Becky Stephens,2,Project Manager
-7,Hayley Pantalleresco,6,Project Officer & EA to Director
+id,name,parentId,positionName
+1,Elizabeth Aitken,,"""Director, Extended Education"""
+2,Philippa Swindell,1,"""Associate Director, Commercial Operations & Planning"""
+3,Louise Bennett,2,"""Head of Digital Learning Operations"""
+4,Nina Nel,2,"""Senior Programme Manager"""
+5,Oliver Trumble,1,"""Associate Director, Distance Education"""
+6,Becky Stephens,2,"""Project Manager"""
+7,Hayley Pantalleresco,6,"""Project Officer & EA to Director"""
