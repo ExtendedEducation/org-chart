@@ -64,7 +64,10 @@
       d3.csv(
         'https://extendededucation.github.io/org-chart/misc/data.csv'
       ).then((dataFlattened) => {
-       if( d["Department"] == "Transformation" || d["id"] == 2 || d["id"] == 1)
+       dataFlattened = dataFlattened.filter(function(d) 
+{ 
+
+        if( d["Department"] == "Transformation" || d["id"] == 2 || d["id"] == 1)
         { 
             return d;
         } 
