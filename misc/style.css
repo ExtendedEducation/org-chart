@@ -21,3 +21,40 @@
 .Transformation {
   background-color: #05A8AA !important;
 }
+
+.footer {
+  width:100%;
+  padding: 20px;
+  display: inline-flex;
+}
+
+.department {
+  width: 200px;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+.slt {
+  border: 4px solid #BC8034;
+}
+
+.transformation {
+  border: 4px solid #05A8AA;
+}
+
+.operations {
+  border: 4px solid #4E0250;
+}
+
+.programmes {
+  border: 4px solid #DC602E;
+}
+
+.marketing {
+  border: 4px solid #B8D5B8;
+}
+
+.summer {
+  border: 4px solid #B91372;
+}
