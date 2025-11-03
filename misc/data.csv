@@ -1,20 +1,20 @@
-id,name,parentId,positionName
-1,Elizabeth Aitken,,"Director, Extended Education"
-2,Philippa Swindell,1,"Associate Director, Commercial Operations and Planning"
-3,Louise Bennett,2,Head of Digital Learning Operations
-4,Nina Nel,2,Senior Programme Manager
-5,Oliver Trumble,1,"Associate Director, Distance Education"
-6,Becky Stephens,2,Project Manager
-7,Hayley Pantalleresco,6,Project Officer and EA to Director
-8,Lisa Havdhal,1,"Associate Director, Marketing and Recruitment"
-9,Kate Merson,2,Project Manager
-10,Lori Halford,18,Senior Planning and Operations Manager
-11,Harriet Hawtin,18,Senior Change Lead
-12,Ellen Shepherd,10,"Operations Manager, Finance"
-13,Whitney Williams,12,Operations Assistant
-14,Asma Begum-Ullah,10,"Operations Manager, Contracts"
-15,Tom Squire,14,Operations Assistant
-16,Jin Li,10,"Operations Manager, Systems"
-17,Vacant,2,Head of Strategic Programme Delivery
-18,Chris Llewellyn,2,Head of Operations
-19,Zohara Hirji,3,Business Analyst
+id,name,parentId,positionName,Department
+1,Elizabeth Aitken,,"Director, Extended Education",SLT
+2,Philippa Swindell,1,"Associate Director, Commercial Operations and Planning",SLT
+3,Louise Bennett,2,Head of Digital Learning Operations,Transformation
+4,Nina Nel,2,Senior Programme Manager,Transformation
+5,Oliver Trumble,1,"Associate Director, Distance Education",SLT
+6,Becky Stephens,2,Project Manager,Transformation
+7,Hayley Pantalleresco,6,Project Officer and EA to Director,Transformation
+8,Lisa Havdhal,1,"Associate Director, Marketing and Recruitment",SLT
+9,Kate Merson,2,Project Manager,Transformation
+10,Lori Halford,18,Senior Planning and Operations Manager,Operations
+11,Harriet Hawtin,18,Senior Change Lead,Operations
+12,Ellen Shepherd,10,"Operations Manager, Finance",Operations
+13,Whitney Williams,12,Operations Assistant,Operations
+14,Asma Begum-Ullah,10,"Operations Manager, Contracts",Operations
+15,Tom Squire,14,Operations Assistant,Operations
+16,Jin Li,10,"Operations Manager, Systems",Operations
+17,Vacant,2,Head of Strategic Programme Delivery,Transformation
+18,Chris Llewellyn,2,Head of Operations,Operations
+19,Zohara Hirji,3,Business Analyst,Transformation
