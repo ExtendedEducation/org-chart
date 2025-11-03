@@ -31,9 +31,9 @@
 <div class="chart-container"></div>
 <div class="footer">
   <div class="departments">
-  <div class="department department-slt" onclick="chart.setExpanded('2',false);chart.setExpanded('5',false);chart.setExpanded('8',false);chart.removeNode('22');chart.fit();chart.setCentered('1').render()">
+  <a class="department department-slt" href="https://extendededucation.github.io/org-chart/slt.html">
     Senior Leadership Team
-  </div>
+  </a>
     <div class="department department-transformation" onclick="chart.setExpanded('2',true);chart.setExpanded('3',true);chart.setExpanded('5',false);chart.setExpanded('8',false);chart.setCentered('2').render();">
     Transformation Team
   </div>
@@ -61,8 +61,7 @@
       d3.csv(
         'https://extendededucation.github.io/org-chart/misc/data.csv'
       ).then((dataFlattened) => {
-        chart = new d3.OrgChart()
-          var dataFlattened = dataFlattened.filter(function(d) 
+        dataFlattened = dataFlattened.filter(function(d) 
 { 
 
         if( d["Department"] == "SLT")
@@ -71,6 +70,7 @@
         } 
 
     })
+        chart = new d3.OrgChart()
           .container('.chart-container')
           .data(dataFlattened)
           .nodeWidth((d) => 250)
