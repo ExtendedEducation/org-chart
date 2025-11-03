@@ -1,6 +1,7 @@
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/d3-org-chart@3"></script>
 <script src="https://cdn.jsdelivr.net/npm/d3-flextree@2.1.2/build/d3-flextree.js"></script>
+<style src="https://extendededucation.github.io/org-chart/misc/style.css"></style>
 <div class="chart-container"></div>
 
  <script>
@@ -30,7 +31,9 @@
                
                <div style="background-color:#3AB6E3;height:10px;width:${
                  d.width - 2
-               }px;border-radius:1px"></div>
+               }px;border-radius:1px" class=" ${
+                     d.data.Department
+                   }"></div>
 
                <div style="padding:20px; padding-top:35px;text-align:center">
                    <div style="color:#111672;font-size:16px;font-weight:bold"> ${
