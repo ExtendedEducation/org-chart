@@ -1,18 +1,86 @@
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/d3-org-chart@3"></script>
 <script src="https://cdn.jsdelivr.net/npm/d3-flextree@2.1.2/build/d3-flextree.js"></script>
+<script src="https://unpkg.com/html2canvas@1.1.4/dist/html2canvas.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
+<script>
+  function downloadPdf(chart) {
+    chart.exportImg({
+      save: false,
+      full: true,
+      onLoad: (base64) => {
+        var pdf = new jspdf.jsPDF();
+        var img = new Image();
+        img.src = base64;
+        img.onload = function () {
+          pdf.addImage(
+            img,
+            'JPEG',
+            5,
+            5,
+            595 / 3,
+            ((img.height / img.width) * 595) / 3
+          );
+          pdf.save('chart.pdf');
+        };
+      },
+    });
+  }
+</script>
+<link rel="stylesheet" type="text/css" href="https://extendededucation.github.io/org-chart/misc/style.css" crossorigin="anonymous">
 <div class="chart-container"></div>
-
+<div class="footer">
+  <div class="departments">
+  <a class="department department-slt" href="https://extendededucation.github.io/org-chart/slt.html">
+    Senior Leadership Team
+  </a>
+    <a class="department department-transformation" href="https://extendededucation.github.io/org-chart/transformation.html">
+    Transformation Team
+  </a>
+    <a class="department department-operations" href="https://extendededucation.github.io/org-chart/operations.html">
+    Operations Team
+  </a>
+       <a class="department department-programmes" href="https://extendededucation.github.io/org-chart/programmes.html">
+    Programmes Team
+  </a>
+  <a class="department department-marketing" href="https://extendededucation.github.io/org-chart/marketing.html">
+    Marketing Team
+  </a>
+    <a class="department department-summer" href="https://extendededucation.github.io/org-chart/summer.html">
+    Summer Team
+  </a>
+       <a class="department" href="https://extendededucation.github.io/org-chart/full-chart.html">
+    Extended Education
+  </a>
+  </div>
+  <div class="buttons">
+<button onclick="chart.exportImg()">Export Current</button>
+<button onclick="chart.exportImg({full:true})">Export Full</button>
+<button onclick="chart.exportSvg()">Export SVG</button>
+<button onclick="downloadPdf(chart)">Export PDF</button>
+</div>
  <script>
       var chart;
       d3.csv(
-        'https://extendededucation.github.io/org-chart/misc/operations.csv'
+        'https://extendededucation.github.io/org-chart/misc/data.csv'
       ).then((dataFlattened) => {
+       dataFlattened = dataFlattened.filter(function(d) 
+{ 
+
+        if( d["Department"] == "Operations" || d["id"] == 2 || d["id"] == 1)
+        { 
+            return d;
+        } 
+
+    })
         chart = new d3.OrgChart()
           .container('.chart-container')
           .data(dataFlattened)
           .nodeWidth((d) => 250)
-          .initialZoom(0.7)
+          .initialZoom(0.9)
+          .compact(false)
+          .setActiveNodeCentered(true)
+          .initialExpandLevel(10)
           .nodeHeight((d) => 175)
           .childrenMargin((d) => 40)
           .compactMarginBetween((d) => 15)
@@ -28,7 +96,9 @@
                
                <div style="background-color:#3AB6E3;height:10px;width:${
                  d.width - 2
-               }px;border-radius:1px"></div>
+               }px;border-radius:1px" class=" ${
+                     d.data.Department
+                   }"></div>
 
                <div style="padding:20px; padding-top:35px;text-align:center">
                    <div style="color:#111672;font-size:16px;font-weight:bold"> ${
