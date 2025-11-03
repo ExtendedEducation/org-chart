@@ -25,9 +25,19 @@
 .footer {
   width:100%;
   padding-top: 20px;
+  display: inline;
+}
+
+.departments {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  width:80%;
+}
+
+.buttons {
+  width:20%;
+  display: inline;
 }
 
 .department {
