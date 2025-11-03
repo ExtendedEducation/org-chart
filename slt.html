@@ -63,6 +63,11 @@
       ).then((dataFlattened) => {
         chart = new d3.OrgChart()
           .container('.chart-container')
+          .nodeUpdate(function (d) {
+      if (d.data.Department = 'Summer') {
+        d3.select(this).style('display', 'none');
+      }
+    })
           .data(dataFlattened)
           .nodeWidth((d) => 250)
           .initialZoom(0.9)
