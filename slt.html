@@ -62,18 +62,22 @@
         'https://extendededucation.github.io/org-chart/misc/data.csv'
       ).then((dataFlattened) => {
         chart = new d3.OrgChart()
-          .container('.chart-container')
-          .nodeUpdate(function (d) {
-      if (d.data.Department !== 'SLT') {
-        d3.select(this).style('display', 'none');
-      }
+          var dataFlattened = dataFlattened.filter(function(d) 
+{ 
+
+        if( d["Department"] == "SLT")
+        { 
+            return d;
+        } 
+
     })
+          .container('.chart-container')
           .data(dataFlattened)
           .nodeWidth((d) => 250)
           .initialZoom(0.9)
           .compact(false)
           .setActiveNodeCentered(true)
-          .initialExpandLevel(2)
+          .initialExpandLevel(1)
           .nodeHeight((d) => 175)
           .childrenMargin((d) => 40)
           .compactMarginBetween((d) => 15)
