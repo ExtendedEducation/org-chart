@@ -76,12 +76,12 @@
         chart = new d3.OrgChart()
           .container('.chart-container')
           .data(dataFlattened)
-         .nodeWidth((d) => 450)
+         .nodeWidth((d) => 400)
           .initialZoom(0.7)
           .compact(false)
           .setActiveNodeCentered(true)
           .initialExpandLevel(10)
-          .nodeHeight((d) => 125)
+          .nodeHeight((d) => 140)
           .childrenMargin((d) => 10)
           .compactMarginBetween((d) => 15)
           .compactMarginPair((d) => 80)
@@ -100,7 +100,7 @@
                      d.data.Department
                    }"></div>
 
-               <div style="padding:20px; padding-top:35px;text-align:center">
+               <div style="padding:20px; text-align:center">
                    <div style="color:#111672;font-size:16px;font-weight:bold"> ${
                      d.data.name
                    } </div>
