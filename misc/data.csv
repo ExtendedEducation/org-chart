@@ -30,3 +30,6 @@ id,name,parentId,positionName,Department
 29,John Brennan,27,"Programme Assistant Programmes&Summer School",Programmes 
 30,Vacant,26,Administrator - Assessments,Programmes
 31,Wajahat Afzal,5,Learning Design Manager,Programmes
+32,Arthi Ramasbramanian,5,Programme Manager,Programmes
+33,Vivian Chang,32,Programme Officer,Programmes
+34,Alison Zhao,32,Programme Administrator,Programmes
