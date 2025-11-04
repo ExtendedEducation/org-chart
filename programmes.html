@@ -76,7 +76,7 @@
         chart = new d3.OrgChart()
           .container('.chart-container')
           .data(dataFlattened)
-        .nodeWidth((d) => 450)
+        .nodeWidth((d) => 420)
           .initialZoom(0.7)
           .compact(false)
           .setActiveNodeCentered(true)
@@ -100,7 +100,7 @@
                      d.data.Department
                    }"></div>
 
-               <div style="padding:20px; padding-top:35px;text-align:center">
+               <div style="padding:20px;text-align:center">
                    <div style="color:#111672;font-size:16px;font-weight:bold"> ${
                      d.data.name
                    } </div>
