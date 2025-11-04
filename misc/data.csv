@@ -4,10 +4,10 @@ id,name,parentId,positionName,Department
 3,Louise Bennett,2,Head of Digital Learning Operations,Transformation
 4,Nina Nel,2,Senior Programme Manager,Transformation
 5,Oliver Trumble,1,"Associate Director, Distance Education",SLT
-6,Becky Stephens,2,Project Manager,Transformation
+6,Becky Stephens,4,Project Manager,Transformation
 7,Hayley Pantalleresco,6,Project Officer and EA to Director,Transformation
 8,Lisa Havdhal,1,"Associate Director, Marketing and Recruitment",SLT
-9,Kate Merson,2,Project Manager,Transformation
+9,Kate Merson,4,Project Manager,Transformation
 10,Lori Halford,18,Senior Planning and Operations Manager,Operations
 11,Harriet Hawtin,18,Senior Change Lead,Operations
 12,Ellen Shepherd,10,"Operations Manager, Finance",Operations
@@ -15,13 +15,12 @@ id,name,parentId,positionName,Department
 14,Asma Begum-Ullah,10,"Operations Manager, Contracts",Operations
 15,Tom Squire,14,Operations Assistant,Operations
 16,Jin Li,10,"Operations Manager, Systems",Operations
-17,Vacant,2,Head of Strategic Programme Delivery,Transformation
-18,Chris Llewellyn,2,Head of Operations,Operations
-19,Zohara Hirji,3,Business Analyst,Transformation
-20,Yolanda Pulido Ignacio,5,Head of LSE University of London Programmes,Programmes
-21,Maria Kazantzi (Mat Leave) / Eva-Maria Matzka,8,"Marketing Manager, Summer School",Marketing
-22,Tom Purser,1,"Head of Programmes Delivery, Summer School",Summer
-23,Rob Igglesden,5,Senior Business Development Manager, Programmes
-24,Erika Gallacher,5, Senior Business Development Manager, Programmes
-25,Miles Davis,5,Senior Business Development Manager, Programmes
-26,Ruby Yip,23,Business Development Officer, Programmes
+17,Chris Llewellyn,2,Head of Operations,Operations
+18,Zohara Hirji,3,Business Analyst,Transformation
+19,Yolanda Pulido Ignacio,5,Head of LSE University of London Programmes,Programmes
+20,Maria Kazantzi (Mat Leave) / Eva-Maria Matzka,8,"Marketing Manager, Summer School",Marketing
+21,Tom Purser,1,"Head of Programmes Delivery, Summer School",Summer
+22,Rob Igglesden,5,Senior Business Development Manager,Programmes
+23,Erika Gallacher,5, Senior Business Development Manager,Programmes
+24,Miles Davis,5,Senior Business Development Manager,Programmes
+25,Ruby Yip,22,Business Development Officer,Programmes
