@@ -45,7 +45,7 @@ id,name,parentId,positionName,Department
 44, Sophie Nedderman,42,Marketing Manager (mat cover),Marketing
 45, Vacant, 44,Marketing Officer,Marketing
 46, Hailey Park,42, Marketing Officer,Marketing
-47, Luis Granja,8, Deputy Head of Global Partnerships and Student Recruitment,Recruitment
-48, Chloe Kwong,47,Partnerships and Student Recruitment Officer,Recruitment
-49, Amie Raphael,8,Events and Student Experience Manager (mat cover),Events
-50, CiiCii Mavusi-Matu,49,Events and Student Experience Officer (mat cover),Events
+47, Luis Granja,8, Deputy Head of Global Partnerships and Student Recruitment,Marketing
+48, Chloe Kwong,47,Partnerships and Student Recruitment Officer,Marketing
+49, Amie Raphael,8,Events and Student Experience Manager (mat cover),Marketing
+50, CiiCii Mavusi-Matu,49,Events and Student Experience Officer (mat cover),Marketing
