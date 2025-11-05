@@ -1,12 +1,12 @@
 id,name,parentId,positionName,Department
 1,Elizabeth Aitken,,"Director, Extended Education",SLT
-2,Philippa Swindell,1,"Associate Director, Commercial Operations and Planning",SLT
+2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning",SLT
 3,Louise Bennett,2,Head of Digital Learning Operations,Transformation
 4,Nina Nel,2,Senior Programme Manager,Transformation
 5,Oliver Trumble,1,"Associate Director, Distance Education",SLT
 6,Becky Stephens,2,Project Manager,Transformation
 7,Hayley Pantalleresco,6,Project Officer and EA to Director,Transformation
-8,Lisa Havdhal,1,"Associate Director, Marketing and Recruitment",SLT
+8,Lisa Havdhal,1,"Associate Director, Marketing & Recruitment",SLT
 9,Kate Merson,2,Project Manager,Transformation
 10,Lori Halford,17,Senior Planning and Operations Manager,Operations
 11,Harriet Hawtin,17,Senior Change Lead,Operations
@@ -26,7 +26,7 @@ id,name,parentId,positionName,Department
 26,Jack Wolvey,19,Senior Programme Manager,Programmes
 27,Nimali Udukalege (mat cover),26,Assessment Manager,Programmes
 28,Jenny Roberts,27,Assessment Officer,Programmes
-29,John Brennan,27,"Programme Assistant Programmes&Summer School",Programmes
+29,John Brennan,27,"Programme Assistant, Programmes & Summer School",Programmes
 30,Vacant,27,Administrator - Assessments,Programmes
 31,Wajahat Afzal,19,Learning Design Manager,Programmes
 32,Arthi Ramasbramanian,19,Programme Manager,Programmes
