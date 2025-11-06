@@ -26,11 +26,22 @@
       },
     });
   }
+  (() => {
+    const includes = document.getElementsByTagName('include');
+    [].forEach.call(includes, i => {
+        let filePath = i.getAttribute('src');
+        fetch(filePath).then(file => {
+            file.text().then(content => {
+                i.insertAdjacentHTML('afterend', content);
+                i.remove();
+            });
+        });
+    });
+})();
 </script>
-<script>w3.includeHTML();</script>
 <link rel="stylesheet" type="text/css" href="https://extendededucation.github.io/org-chart/misc/style.css" crossorigin="anonymous">
 <div class="chart-container"></div>
-<div w3-include-HTML="include.html"></div>
+<include src="include.html"></include>
 <div class="footer">
   <div class="departments">
   <a class="department department-slt" href="https://extendededucation.github.io/org-chart/slt.html">
