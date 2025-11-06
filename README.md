@@ -83,7 +83,7 @@ Thus, this would include people in the Transformation department, the Operations
 To simplify updates, the navigation and buttons at the bottom of each chart are saved to a single page, then imported into each of the charts. 
 
 1. Open the [include.html](https://github.com/ExtendedEducation/org-chart/edit/master/include.html) page in edit mode.
-2. Add a new line in the <div class="departments"> section:
+2. Add a new line in the < div class="departments"> section:
 
 If, for instance, I'm adding a 'Technology' team:
 
