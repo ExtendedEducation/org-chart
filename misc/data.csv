@@ -20,7 +20,7 @@ id,name,parentId,positionName,Department
 19,Yolanda Pulido Ignacio,5,Head of LSE University of London Programmes,Programmes
 21,Tom Purser,1,"Head of Programmes Delivery, Summer School",Summer
 22,Rob Igglesden,5,Senior Business Development Manager,Programmes
-23,Erika Gallacher,5, Senior Business Development Manager,Programmes
+23,Erika Gallacher,5,Senior Business Development Manager,Programmes
 24,Miles Davis,5,Senior Business Development Manager,Programmes
 25,Ruby Yip,22,Business Development Officer,Programmes
 26,Jack Wolvey,19,Senior Programme Manager (Assessment & Quality),Programmes
@@ -43,8 +43,8 @@ id,name,parentId,positionName,Department
 43,Jim McCarthy,42,Digital Marketing Manager,Marketing
 44,Sophie Nedderman,42,Marketing Manager (mat cover),Marketing
 45,Vacant,44,Marketing Officer,Marketing
-46,Hailey Park,42, Marketing Officer,Marketing
-47,Luis Granja,8, Deputy Head of Global Partnerships and Student Recruitment,Marketing
+46,Hailey Park,42,Marketing Officer,Marketing
+47,Luis Granja,8,Deputy Head of Global Partnerships and Student Recruitment,Marketing
 48,Chloe Kwong,47,Partnerships and Student Recruitment Officer,Marketing
 49,Amie Raphael,8,Events and Student Experience Manager (mat cover),Marketing
 50,CiiCii Mavusi-Matu,49,Events and Student Experience Officer (mat cover),Marketing
