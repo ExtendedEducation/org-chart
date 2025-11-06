@@ -4,7 +4,13 @@ Welcome to the Extended Education Org Chart! The aim is to keep this as simple a
 
 ## Giving editing access to someone new
 
-1. Click the 'Settings' link in the 
+This must be done by someone with full access (currently Hayley and Louise).
+
+1. Click the 'Settings' link in the github menu bar (or [click here](https://github.com/ExtendedEducation/org-chart/settings/access).)
+2. Under 'manage access' click 'add people'.
+3. Type in their email address, then click on it.
+4. Select 'write' access, then 'Add selection'.
+5. This will invite them to create a github account, then give them editing access to the repository.
 
 ## To add new members to the team
 
