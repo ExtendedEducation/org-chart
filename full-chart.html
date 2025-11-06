@@ -26,17 +26,11 @@
       },
     });
   }
-  $(function () {
-  var includes = $('[data-include]')
-  $.each(includes, function () {
-    var file = 'views/' + $(this).data('include') + '.html'
-    $(this).load(file)
-  })
-})
 </script>
+<script>w3.includeHTML();</script>
 <link rel="stylesheet" type="text/css" href="https://extendededucation.github.io/org-chart/misc/style.css" crossorigin="anonymous">
 <div class="chart-container"></div>
-<div data-include="include"></div>
+<div w3-include-HTML="include.html"></div>
 <div class="footer">
   <div class="departments">
   <a class="department department-slt" href="https://extendededucation.github.io/org-chart/slt.html">
