@@ -1,4 +1,4 @@
-id,name,parentId,positionName,Department
+id,name,parentId,positionName,Department,Email,Info
 1,Elizabeth Aitken,,"Director, Extended Education",SLT
 2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning",SLT
 3,Louise Bennett,2,Head of Digital Learning Operations,Transformation
@@ -8,7 +8,7 @@ id,name,parentId,positionName,Department
 7,Hayley Pantalleresco,6,Project Officer and EA to Director,Transformation
 8,Lisa Havdahl,1,"Associate Director, Marketing & Recruitment",SLT
 9,Kate Merson,4,Project Manager,Transformation
-10,Lori Halford,17,Senior Planning and Operations Manager,Operations
+10,Lori Halford,17,Senior Planning and Operations Manager,Operations,L.Halford@lse.ac.uk,"Team management and process improvement"
 11,Harriet Hawtin,17,Senior Change Lead,Operations
 12,Vacant,10,"Operations Manager, Finance",Operations
 13,Whitney Williams,12,Operations Assistant,Operations
