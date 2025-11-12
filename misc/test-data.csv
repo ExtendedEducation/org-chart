@@ -1,0 +1,4 @@
+id,name,parentId,positionName,Department,Email,Info
+1,Elizabeth Aitken,,"Director, Extended Education",SLT,e.aitken@lse.ac.uk,"Department Director"
+2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning",SLT,p.r.swindell@lse.ac.uk,"Oversight of Operations and Transformation workstreams"
+3,Louise Bennett,2,Head of Digital Learning Operations,Transformation,l.bennett2@lse.ac.uk,"Oversight of technology within the Transformation workstream"
