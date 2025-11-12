@@ -35,10 +35,6 @@
       d3.csv(
         'https://extendededucation.github.io/org-chart/misc/test-data.csv'
       ).then((dataFlattened) => {
-       dataFlattened = dataFlattened.filter(function(d) 
-{ 
-
-    
         chart = new d3.OrgChart()
           .container('.chart-container')
           .data(dataFlattened)
