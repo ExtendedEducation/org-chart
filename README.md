@@ -16,11 +16,13 @@ This must be done by someone with full access (currently Hayley and Louise).
 
 Add each new member as a new line, in the following format, with no spaces between the commas or at the end of the line:
 
-> ID number of new staff member (these can just increase sequentially),Full Name,ID number of the staff member's line manager,Job Title (surrounded in quote marks if it includes commas or ampersands,Department
+> ID number of new staff member (these can just increase sequentially),Full Name,ID number of the staff member's line manager,Job Title (surrounded in quote marks if it includes commas or ampersands),Department,Email,Info
+
+The 'info' field is for a very very short description of responsibility.
 
 So, for instance:
 
-> 2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning",SLT
+> 2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning",SLT,p.r.swindell@lse.ac.uk,"Operations & transformation strategy and oversight"
 
 ## Update members of the team
 
