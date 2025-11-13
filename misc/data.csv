@@ -1,50 +1,50 @@
-id,name,parentId,positionName,Department
-1,Elizabeth Aitken,,"Director, Extended Education",SLT
-2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning",SLT
-3,Louise Bennett,2,Head of Digital Learning Operations,Transformation
-4,Nina Nel,2,Senior Programme Manager,Transformation
-5,Oliver Trumble,1,"Associate Director, Distance Education",SLT
-6,Becky Stephens,4,Project Manager,Transformation
-7,Hayley Pantalleresco,6,Project Officer and EA to Director,Transformation
-8,Lisa Havdahl,1,"Associate Director, Marketing & Recruitment",SLT
-9,Kate Merson,4,Project Manager,Transformation
-10,Lori Halford,17,Senior Planning and Operations Manager,Operations
-11,Harriet Hawtin,17,Senior Change Lead,Operations
-12,Vacant,10,"Operations Manager, Finance",Operations
-13,Whitney Williams,12,Operations Assistant,Operations
-14,Asma Begum-Ullah,10,"Operations Manager, Contracts",Operations
-15,Tom Squire,14,Operations Assistant,Operations
-16,Jin Li,10,"Operations Manager, Systems",Operations
-17,Chris Llewellyn,2,Head of Operations,Operations
-18,Zohara Hirji,3,"Business Analyst (to commence Jan 2026)",Transformation
-19,Yolanda Pulido Ignacio,5,Head of LSE University of London Programmes,Programmes
-21,Tom Purser,1,"Head of Programmes Delivery, Summer School",Summer
-22,Rob Igglesden,5,Senior Business Development Manager,Programmes
-23,Erika Gallacher,5,Senior Business Development Manager,Programmes
-24,Miles Davis,5,Senior Business Development Manager,Programmes
-25,Ruby Yip,22,Business Development Officer,Programmes
-26,Jack Wolvey,19,Senior Programme Manager (Assessment & Quality),Programmes
-27,Nimali Udukalege (mat cover),26,Assessment Manager,Programmes
-28,Jenny Roberts,27,Assessment Officer,Programmes
-29,John Brennan,27,"Programme Assistant, Programmes & Summer School",Programmes
-30,Vacant,27,Administrator - Assessments,Programmes
-31,Wajahat Afzal,19,Learning Design Manager,Programmes
-32,Arthi Ramasbramanian,19,Programme Manager,Programmes
-33,Vivian Chang,32,Programme Officer,Programmes
-34,Alison Zhao,32,Programme Administrator,Programmes
-35,Simon Vollar,21,Deputy Head of Programmes,Summer
-36,Ella Nash,35,Admissions & Programme Manager,Summer
-37,Eleanor Budenberg,36,Programme Coordinator,Summer
-38,Laura Maher,37,Programme Assistant,Summer
-39,Naciima Hassan,37,Programme Assistant,Summer
-40,Madi Wilton,37,Programme Assistant,Summer
-41,John Brennan,37,"Programme Assistant Programmes&Summer School",Summer
-42,Gemma Hughes,8,Senior Marketing Manager,Marketing
-43,Jim McCarthy,42,Digital Marketing Manager,Marketing
-44,Sophie Nedderman,42,Marketing Manager (mat cover),Marketing
-45,Vacant,44,Marketing Officer,Marketing
-46,Hailey Park,42,Marketing Officer,Marketing
-47,Luis Granja,8,Deputy Head of Global Partnerships and Student Recruitment,Marketing
-48,Chloe Kwong,47,Partnerships and Student Recruitment Officer,Marketing
-49,Amie Raphael,8,Events and Student Experience Manager (mat cover),Marketing
-50,CiiCii Mavusi-Matu,49,Events and Student Experience Officer (mat cover),Marketing
+id,name,parentId,positionName,Department,Email,Info
+1,Elizabeth Aitken,,"Director, Extended Education",SLT,e.aitken@lse.ac.uk,
+2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning",SLT,p.r.swindell@lse.ac.uk,
+3,Louise Bennett,2,Head of Digital Learning Operations,Transformation,l.bennett2@lse.ac.uk,"The technology ecosystem that will fuel our transformation project"
+4,Nina Nel,2,Senior Programme Manager,Transformation,n.nel@lse.ac.uk,
+5,Oliver Trumble,1,"Associate Director, Distance Education",SLT,o.trumble@lse.ac.uk,
+6,Becky Stephens,4,Project Manager,Transformation,r.n.stephens@lse.ac.uk,
+7,Hayley Pantalleresco,6,Project Officer and EA to Director,Transformation,"H.Pantalleresco@lse.ac.uk,
+8,Lisa Havdahl,1,"Associate Director, Marketing & Recruitment",SLT,L.L.Havdahl@lse.ac.uk,
+9,Kate Merson,4,Project Manager,Transformation,k.merson@lse.ac.uk,
+10,Lori Halford,17,Senior Planning and Operations Manager,Operations,l.halford@lse.ac.uk,"Team management and process improvement"
+11,Harriet Hawtin,17,Senior Change Lead,Operations,h.hawtin@lse.ac.uk,
+12,Vacant,10,"Operations Manager, Finance",Operations,,
+13,Whitney Williams,12,Operations Assistant,Operations,w.williams1@lse.ac.uk,
+14,Asma Begum-Ullah,10,"Operations Manager, Contracts",Operations,A.Begum-Ullah@lse.ac.uk,
+15,Tom Squire,14,Operations Assistant,Operations,t.squire@lse.ac.uk,
+16,Jin Li,10,"Operations Manager, Systems",Operations,J.Li284@lse.ac.uk,
+17,Chris Llewellyn,2,Head of Operations,Operations,C.Llewellyn@lse.ac.uk,
+18,Zohara Hirji,3,"Business Analyst (to commence Jan 2026)",Transformation,,"Developing the detailed requirements of our new tech ecosystem"
+19,Yolanda Pulido Ignacio,5,Head of LSE University of London Programmes,Programmes,Y.Pulido-Ignacio@lse.ac.uk,
+21,Tom Purser,1,"Head of Programmes Delivery, Summer School",Summer,t.purser@lse.ac.uk,
+22,Rob Igglesden,5,Senior Business Development Manager,Programmes,R.Igglesden@lse.ac.uk,
+23,Erika Gallacher,5,Senior Business Development Manager,Programmes,E.Gallacher@lse.ac.uk,
+24,Miles Davis,5,Senior Business Development Manager,Programmes,M.J.Davies@lse.ac.uk,
+25,Ruby Yip,22,Business Development Officer,Programmes,O.Yip1@lse.ac.uk,
+26,Jack Wolvey,19,Senior Programme Manager (Assessment & Quality),Programmes,J.Wolvey@lse.ac.uk,
+27,Nimali Udukalege (mat cover),26,Assessment Manager,Programmes,N.Udukalage@lse.ac.uk,
+28,Jenny Roberts,27,Assessment Officer,Programmes,J.E.Roberts@lse.ac.uk,
+29,John Brennan,27,"Programme Assistant, Programmes & Summer School",Programmes,J.Brennan6@lse.ac.uk,
+30,Vacant,27,Administrator - Assessments,Programmes,,
+31,Wajahat Afzal,19,Learning Design Manager,Programmes,M.W.Afzal@lse.ac.uk,
+32,Arthi Ramasbramanian,19,Programme Manager,Programmes,A.Ayakkad-Ramasubramanian@lse.ac.uk,
+33,Vivian Chang,32,Programme Officer,Programmes,C.Chang25@lse.ac.uk,
+34,Alison Zhao,32,Programme Administrator,Programmes,X.Zhao63@lse.ac.uk,
+35,Simon Vollar,21,Deputy Head of Programmes,Summer,S.Vollar@lse.ac.uk,
+36,Ella Nash,35,Admissions & Programme Manager,Summer,E.Nash@lse.ac.uk,
+37,Eleanor Budenberg,36,Programme Coordinator,Summer,E.M.Budenberg@lse.ac.uk,
+38,Laura Maher,37,Programme Assistant,Summer,L.T.Maher@lse.ac.uk,
+39,Naciima Hassan,37,Programme Assistant,Summer,N.M.Hassan@lse.ac.uk,
+40,Madi Wilton,37,Programme Assistant,Summer,M.H.Wilton@lse.ac.uk,
+41,John Brennan,37,"Programme Assistant Programmes&Summer School",Summer,J.Brennan6@lse.ac.u,
+42,Gemma Hughes,8,Senior Marketing Manager,Marketing,G.Hughes3@lse.ac.uk,
+43,Jim McCarthy,42,Digital Marketing Manager,Marketing,J.McCarthy5@lse.ac.uk,
+44,Sophie Nedderman,42,Marketing Manager (mat cover),Marketing,S.D.Nedderman@lse.ac.uk,
+45,Vacant,44,Marketing Officer,Marketing,,
+46,Hailey Park,42,Marketing Officer,Marketing,A.Park4@lse.ac.uk,
+47,Luis Granja,8,Deputy Head of Global Partnerships and Student Recruitment,Marketing,L.Granja1@lse.ac.uk,
+48,Chloe Kwong,47,Partnerships and Student Recruitment Officer,Marketing,M.C.Kwong@lse.ac.uk,
+49,Amie Raphael,8,Events and Student Experience Manager (mat cover),Marketing,A.R.Raphael@lse.ac.uk,
+50,CiiCii Mavusi-Matu,49,Events and Student Experience Officer (mat cover),Marketing,C.Mavusi-Matu@lse.ac.uk,
