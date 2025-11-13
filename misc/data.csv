@@ -1,7 +1,7 @@
 id,name,parentId,positionName,Department,Email,Info
 1,Elizabeth Aitken,,"Director, Extended Education",SLT,e.aitken@lse.ac.uk,
 2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning",SLT,p.r.swindell@lse.ac.uk,
-3,Louise Bennett,2,Head of Digital Learning Operations,Transformation,l.bennett2@lse.ac.uk,"The technology ecosystem that will fuel our transformation project"
+3,Louise Bennett,2,Head of Digital Learning Operations,Transformation,l.bennett2@lse.ac.uk,"Oversee the design and implementation of our new tech ecosystem"
 4,Nina Nel,2,Senior Programme Manager,Transformation,n.nel@lse.ac.uk,
 5,Oliver Trumble,1,"Associate Director, Distance Education",SLT,o.trumble@lse.ac.uk,
 6,Becky Stephens,4,Project Manager,Transformation,r.n.stephens@lse.ac.uk,
