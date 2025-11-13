@@ -62,6 +62,10 @@ button {
   border-top: 4px solid #BC8034;
 }
 
+a { 
+  color: #111672;
+}
+
 .department-transformation {
   border-top: 4px solid #05A8AA;
 }
