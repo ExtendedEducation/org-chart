@@ -77,12 +77,17 @@
                      d.data.Department
                    }"></div>
 
-               <div style="padding:20px;text-align:center">
-                   <div style="color:#111672;font-size:16px;font-weight:bold"> ${
+              <div style="padding:20px;text-align:center">
+                   <div style="color:#111672;font-size:16px;font-weight:bold"> <a href="mailto: ${
+                     d.data.Email
+                   }">${
                      d.data.name
-                   } </div>
+                   } </a></div>
                    <div style="color:#404040;font-size:16px;margin-top:4px"> ${
                      d.data.positionName
+                   } </div>
+                   <div style="margin-top:2px"> ${
+                     d.data.Info
                    } </div>
                </div> 
               </div>     
