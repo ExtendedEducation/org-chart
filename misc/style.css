@@ -1,3 +1,7 @@
+html, body {
+  background-color: #FFFFFF;
+}
+
 .Summer {
   background-color: #B91372 !important;
 }
@@ -33,6 +37,7 @@
   align-items: center;
   justify-content: center;
   width:100%;
+  background-color: white;
 }
 
 .buttons {
