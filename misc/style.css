@@ -11,7 +11,9 @@ html, body {
 }
 
 .SLT {
+  border-top: 4x solid #E96771;
   background-color:#E96771 !important;
+  colour: white;
 }
 
 .Marketing {
