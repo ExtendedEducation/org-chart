@@ -1,5 +1,5 @@
 id,name,parentId,positionName,Department,Email,Info
-1,Louise Bennett,,"Head of Digital Learning Operations (8)",Tech,l.bennett2@lse.ac.uk,
+1,Louise Bennett,,"Head of Digital Learning Operations (8)",Operations,l.bennett2@lse.ac.uk,
 2,,1,"Senior Platforms Manager (7)",Tech,,
 3,,1,"Senior Learning Design & Technology Manager (7)",Tech,,
 4,Zohara Hirji,1,"Business Analyst (6)",Transformation,z.hirji1@lse.ac.uk,
@@ -7,5 +7,5 @@ id,name,parentId,positionName,Department,Email,Info
 6,,2,"Salesforce Administrator (6)",Tech,,
 7,,2,"Salesforce Developer (6)",Tech,,
 8,,3,"Learning Designer (6)",Tech,,
-8,,3,"Learning Technologist (6)",Tech,,
+8,,3,"Learning Technologist (6)",Operations,,
 9,,3,"Learning Technologist (6)",Tech,,
