@@ -58,10 +58,6 @@
           .compact(false)
           .setActiveNodeCentered(true)
           .initialExpandLevel(10)
-          .nodeHeight((d) => 150)
-          .childrenMargin((d) => 10)
-          .compactMarginBetween((d) => 15)
-          .compactMarginPair((d) => 80)
           .nodeContent(function (d, i, arr, state) {
             return `
             <div style="padding-top:30px;background-color:none;margin-left:1px;height:${
