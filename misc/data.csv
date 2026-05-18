@@ -39,7 +39,7 @@ id,name,parentId,positionName,Department,Email,Info
 40,Madi Wilton,36,Programme Assistant,Summer,M.H.Wilton@lse.ac.uk,
 41,John Brennan,36,"Programme Assistant Programmes&Summer School",Summer,J.Brennan6@lse.ac.u,
 42,Gemma Hughes,8,Senior Marketing Manager,Marketing,G.Hughes3@lse.ac.uk,
-43,Vacant,42,Digital Marketing Manager,Marketing,,
+43,Kris Barnes,42,Digital Marketing and CRM Manager,Marketing,
 44,Maria Kazantzi,42,Marketing Manager,Marketing,M.Kazantzi@lse.ac.uk,
 45,Hannah McLean,44,Marketing Officer,Marketing,h.mclean@lse.ac.uk,
 46,Hailey Park,42,Marketing Officer,Marketing,A.Park4@lse.ac.uk,
@@ -48,4 +48,4 @@ id,name,parentId,positionName,Department,Email,Info
 49,Phoebe Ferris-Rotman,8,Events and Student Experience Manager,Marketing,P.R.Ferris-Rotman@lse.ac.uk,
 50,CiiCii Mavusi Matu,49,Events and Student Experience Officer (mat cover),Marketing,C.Mavusi-Matu@lse.ac.uk,
 51,Vacant,5,Senior Insights and Market Research Manager,Programmes
-52,Finn Hocquard,42, Summer School Marketing and Recruitment Assistant,Summer School, F.Hocquard@lse.ac.uk
+52,Finn Hocquard,44, Summer School Marketing and Recruitment Assistant,Summer School, F.Hocquard@lse.ac.uk
