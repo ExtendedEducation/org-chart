@@ -26,6 +26,10 @@ html, body {
   background-color:#359FAD !important;
 }
 
+.Tech {
+  background-color: #004169 !important;
+}
+
 .footer {
   width:100%;
   padding-top: 20px;
@@ -89,4 +93,8 @@ a {
 
 .department-summer {
   border-top: 4px solid #E15897;
+}
+
+.department-tech {
+  border-top: 4px solid #004169;
 }
