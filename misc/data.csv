@@ -1,7 +1,7 @@
 id,name,parentId,positionName,Department,Email,Info
 1,Elizabeth Aitken,,"Director, Extended Education",SLT,e.aitken@lse.ac.uk,
 2,Philippa Swindell,1,"Associate Director, Commercial Operations & Planning",SLT,p.r.swindell@lse.ac.uk,
-3,Louise Bennett,2,Head of Digital Learning Operations,Tech,l.bennett2@lse.ac.uk,"High level design & implementation of the new tech ecosystem"
+3,Vacant,2,Head of Digital Learning Operations,Tech,
 4,Nina Nel,2,Head of Strategic Programme Delivery,Transformation,n.nel@lse.ac.uk,
 5,Oliver Trumble,1,"Associate Director, Distance Education",SLT,o.trumble@lse.ac.uk,
 6,Becky Stephens,4,Project Manager,Transformation,r.n.stephens@lse.ac.uk,
@@ -9,14 +9,14 @@ id,name,parentId,positionName,Department,Email,Info
 8,Lisa Havdahl,1,"Associate Director, Marketing & Recruitment",SLT,L.L.Havdahl@lse.ac.uk,
 9,Kate Merson,4,Project Manager,Transformation,k.merson@lse.ac.uk,
 10,Lori Halford,17,Senior Planning and Operations Manager,Operations,l.halford@lse.ac.uk,"Team management and process improvement"
-11,Harriet Hawtin,17,Senior Change Lead,Operations,h.hawtin@lse.ac.uk,
+11,Harriet Hawtin,17,Senior Platforms Manager,Operations,h.hawtin@lse.ac.uk, 
 12,Martina Bertazzon,10,"Operations Manager, Finance",Operations,M.Bertazzon@lse.ac.uk,
 13,Whitney Williams,12,Operations Assistant,Operations,w.williams1@lse.ac.uk,
 14,Asma Begum-Ullah,10,"Operations Manager, Contracts",Operations,A.Begum-Ullah@lse.ac.uk,
 15,Tom Squire,14,Operations Assistant,Operations,t.squire@lse.ac.uk,
 16,Jin Li,10,"Operations Manager, Systems",Operations,J.Li284@lse.ac.uk,
 17,Chris Llewellyn,2,Head of Operations,Operations,C.Llewellyn@lse.ac.uk,
-18,Zohara Hirji,3,"Business Analyst",Tech,z.hirji1@lse.ac.uk,"Developing the detailed requirements of our new tech ecosystem"
+18,Zohara Hirji,11,"Business Analyst",Tech,z.hirji1@lse.ac.uk,"Developing the detailed requirements of our new tech ecosystem"
 19,Yolanda Pulido Ignacio,5,Head of LSE University of London Programmes,Programmes,Y.Pulido-Ignacio@lse.ac.uk,
 21,Tom Purser,1,"Head of Programmes Delivery, Summer School",Summer,t.purser@lse.ac.uk,
 22,Rob Igglesden,5,Senior Business Development Manager,Programmes,R.Igglesden@lse.ac.uk,
@@ -30,7 +30,7 @@ id,name,parentId,positionName,Department,Email,Info
 31,Faith Namakula,19,Learning Technologist,Programmes,F.Namakula@lse.ac.uk
 32,Arthi Ramasbramanian,19,Programme Manager,Programmes,A.Ayakkad-Ramasubramanian@lse.ac.uk,
 33,Vivian Chang,32,Programme Officer,Programmes,C.Chang25@lse.ac.uk,
-34,Alison Zhao,32,Programme Administrator,Programmes,X.Zhao63@lse.ac.uk,
+34,Vacant,32,Programme Administrator,Programmes,
 35,Simon Vollar,21,Deputy Head of Programmes,Summer,S.Vollar@lse.ac.uk,
 36,Ella Nash,35,Admissions & Programme Manager,Summer,E.Nash@lse.ac.uk,
 37,Eleanor Budenberg,36,Programme Coordinator,Summer,E.M.Budenberg@lse.ac.uk,
