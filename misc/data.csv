@@ -11,7 +11,7 @@ id,name,parentId,positionName,Department,Email,Info
 10,Lori Halford,17,Senior Planning and Operations Manager,Operations,l.halford@lse.ac.uk,"Team management and process improvement"
 11,Harriet Hawtin,17,Senior Platforms Manager,Operations,h.hawtin@lse.ac.uk, 
 12,Martina Bertazzon,10,"Operations Manager, Finance",Operations,M.Bertazzon@lse.ac.uk,
-13,Whitney Williams,12,Operations Assistant,Operations,w.williams1@lse.ac.uk,
+13,Vacant,12,Operations Assistant,Operations, 
 14,Asma Begum-Ullah,10,"Operations Manager, Contracts",Operations,A.Begum-Ullah@lse.ac.uk,
 15,Tom Squire,14,Operations Assistant,Operations,t.squire@lse.ac.uk,
 16,Jin Li,10,"Operations Manager, Systems",Operations,J.Li284@lse.ac.uk,
@@ -41,7 +41,7 @@ id,name,parentId,positionName,Department,Email,Info
 42,Gemma Hughes,8,Senior Marketing Manager,Marketing,G.Hughes3@lse.ac.uk,
 43,Kris Barnes,42,Digital Marketing and CRM Manager,Marketing,
 44,Maria Kazantzi,42,Marketing Manager,Marketing,M.Kazantzi@lse.ac.uk,
-45,Hannah McLean,44,Marketing Officer,Marketing,h.mclean@lse.ac.uk,
+45,Vacant,44,Marketing Officer,Marketing,
 46,Hailey Park,42,Marketing Officer,Marketing,A.Park4@lse.ac.uk,
 47,Luis Granja,8,Deputy Head of Global Partnerships and Student Recruitment,Marketing,L.Granja1@lse.ac.uk,
 48,Chloe Kwong,47,Senior Global Partnerships and Student Recruitment Officer,Marketing,M.C.Kwong@lse.ac.uk,
@@ -51,3 +51,4 @@ id,name,parentId,positionName,Department,Email,Info
 52,Finn Hocquard,44, Marketing and Recruitment Assistant,Marketing, F.Hocquard@lse.ac.uk
 53,Tom Coshell,36, Summer School Programme Assistant,Summer, T.Coshell@lse.ac.uk 
 54,Elizabeth Pollard,49, Summer School Events Lead, Marketing,E.Pollard@lse.ac.uk
+55,Amar Dhuna,8, Business Intelligence Manager, Marketing,A.Dhuna2@lse.ac.uk
