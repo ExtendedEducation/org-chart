@@ -11,7 +11,7 @@ id,name,parentId,positionName,Department,Email,Info
 10,Lori Halford,17,Senior Planning and Operations Manager,Operations,l.halford@lse.ac.uk,"Team management and process improvement"
 11,Harriet Hawtin,17,Senior Platforms Manager,Operations,h.hawtin@lse.ac.uk, 
 12,Martina Bertazzon,10,"Operations Manager, Finance",Operations,M.Bertazzon@lse.ac.uk,
-13,Vacant,12,Operations Assistant,Operations, 
+13,Vacant,12,Operations Assistant,Operations,
 14,Asma Begum-Ullah,10,"Operations Manager, Contracts",Operations,A.Begum-Ullah@lse.ac.uk,
 15,Tom Squire,14,Operations Assistant,Operations,t.squire@lse.ac.uk,
 16,Jin Li,10,"Operations Manager, Systems",Operations,J.Li284@lse.ac.uk,
