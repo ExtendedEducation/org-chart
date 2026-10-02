@@ -13,7 +13,7 @@ id,name,parentId,positionName,Department,Email,Info
 12,Tom Squire,13,Operations Assistant,Operations,t.squire@lse.ac.uk,
 13,Jin Li,9,"Operations Manager, Systems",Operations,J.Li284@lse.ac.uk,
 14,Chris Llewellyn,2,Head of Operations,Operations,C.Llewellyn@lse.ac.uk,
-15,Zohara Hirji,10,"Business Analyst",Operations,z.hirji1@lse.ac.uk,,
+15,Zohara Hirji,10,"Business Analyst",Operations,z.hirji1@lse.ac.uk,
 16,Yolanda Pulido Ignacio,4,Head of LSE University of London Programmes,Programmes,Y.Pulido-Ignacio@lse.ac.uk,
 17,Tom Purser,1,"Head of Programmes Delivery, Summer School",Summer,t.purser@lse.ac.uk,
 18,Rob Igglesden,4,Senior Business Development Manager,Programmes,R.Igglesden@lse.ac.uk,
