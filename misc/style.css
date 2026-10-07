@@ -2,7 +2,7 @@ html, body {
   background-color: #FFFFFF;
 }
 
-.Summer {
+.Summer School {
   background-color:#E15897 !important;
 }
 
@@ -18,16 +18,12 @@ html, body {
   background-color:#B895C4 !important;
 }
 
-.Programmes {
+.Global Programmes {
   background-color:#FFC943 !important;
 }
 
 .Transformation {
   background-color:#359FAD !important;
-}
-
-.Tech {
-  background-color: #004169 !important;
 }
 
 .footer {
@@ -83,18 +79,14 @@ a {
   border-top: 4px solid #EE9763;
 }
 
-.department-programmes {
+.department-Global Programmes {
   border-top: 4px solid #FFC943;
 }
 
-.department-marketing {
+.department-Marketing {
   border-top: 4px solid #B895C4;
 }
 
-.department-summer {
+.department-Summer School {
   border-top: 4px solid #E15897;
-}
-
-.department-tech {
-  border-top: 4px solid #004169;
 }
